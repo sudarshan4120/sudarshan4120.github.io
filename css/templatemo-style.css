@@ -8,8 +8,8 @@ https://templatemo.com/tm-458-lavish
 
 body
 {
-	background: #123456;
-	color: #999;
+	background: #ffffff;
+	color: #fff;
 	font-family: 'Raleway', sans-serif;
 	font-size: 16px;
 	font-weight: 400;
@@ -171,7 +171,7 @@ h1,h2,h3,h4,h5
 /* start home */       
 #home
 	{
-        background: url('../images/basil-background.jpg');
+        background: url('../images/sud_background.png');
         background-size: cover;
         background-repeat: no-repeat;
         padding-top: 120px;
